@@ -8,7 +8,7 @@
     {
         "title": "Flutter คืออะไร ?",
         "subtitle": "Flutter คือ เครื่องมือในการเขียนแอพพลิเคชั่น",
-        "img_url": "https://raw.githubusercontent.com/Panu40/BasicAPI/main/flutter.jpg",
+        "img_url": "https://raw.githubusercontent.com/Panu40/BasicAPI/main/Flutter.jpg",
         "detail": "Flutter คือเฟรมเวิร์กสำหรับพัฒนาแอปพลิเคชันแบบโอเพ่นซอร์สที่พัฒนาโดย Google โดยใช้ภาษา Dart เพื่อสร้างแอปพลิเคชันที่ทำงานได้บนหลายแพลตฟอร์ม (Cross-Platform) เช่น iOS, Android, เว็บ และ เดสก์ท็อป จากโค้ดเบสเดียว (Single Codebase)"
     },
     {
