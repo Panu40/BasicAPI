@@ -14,7 +14,7 @@
     {
         "title": "Dart คืออะไร ?",
         "subtitle": "Dart คือ ภาษาในการเขียนแอพพลิเคชั่น",
-        "img_url": "https://github.com/Panu40/BasicAPI/blob/main/dart.jpg",
+        "img_url": "https://raw.githubusercontent.com/Panu40/BasicAPI/refs/heads/main/dart.jpg",
         "detail": "Dart เป็นภาษาการเขียนโปรแกรมที่พัฒนาโดย Google ออกแบบมาเพื่อการพัฒนาแอปพลิเคชันที่รวดเร็วและสามารถใช้งานได้ทั้งบนฝั่งเซิร์ฟเวอร์และฝั่งผู้ใช้ (Client-Side) Dart เป็นภาษาที่สนับสนุนทั้งการเขียนโปรแกรมเชิงวัตถุ (Object-Oriented) และการเขียนโปรแกรมเชิงฟังก์ชัน (Functional Programming)"
     },
     {
