@@ -2,7 +2,7 @@
     {
         "title": "Computer คืออะไร ?",
         "subtitle": "Computer คือ อุปกรณ์ที่ใช้สำหรับการคำนวน",
-        "img_url": "https://github.com/Panu40/BasicAPI/blob/main/computer.jpg",
+        "img_url": "https://raw.githubusercontent.com/Panu40/BasicAPI/refs/heads/main/computer.jpg",
         "detail": " คอมพิวเตอร์ (Computer) คืออุปกรณ์อิเล็กทรอนิกส์ที่ถูกออกแบบมาเพื่อประมวลผลข้อมูลตามคำสั่งที่กำหนด โดยสามารถรับข้อมูล (Input) ประมวลผล (Process) และแสดงผล (Output) ได้อย่างรวดเร็วและแม่นยำ คอมพิวเตอร์มีการใช้งานอย่างกว้างขวางในหลายด้าน เช่น การคำนวณ การจัดการข้อมูล การสื่อสาร และการควบคุมระบบต่าง ๆ"
     },
     {
